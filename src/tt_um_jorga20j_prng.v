@@ -47,5 +47,4 @@ module tt_um_jorga20j_prng (
         end
       end
   end
-
 endmodule
